@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Your cpu cores are"
+echo "Wellcome user $(whoami)"
 
-nproc
+echo "Your cpu cores are $(nproc)"

@@ -25,6 +25,7 @@ logs/
 *.temp
 tmp/
 temp/
+playground/
 
 # Vim
 .netrwhist
